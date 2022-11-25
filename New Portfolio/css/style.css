@@ -20,8 +20,8 @@ body{
     animation-delay: 0.5s;
     animation-iteration-count: 1;
     animation-name: slideInTop;
-    background-image: url(/images/IMG-20221124-WA0010.jpg);
-    /* background-image: url(/images/nodejs3.png); */
+    background-image: url(/pic.jpg);
+    background-image: url(/images/nodejs3.png);
     background-repeat: no-repeat;
     background-size: 300px;
     background-attachment: fixed;
@@ -150,8 +150,7 @@ body{
     color: #ffffff;
 }
 .overlay{
-   
-  background-image: url(/images/IMG-20221124-WA0010.jpg);
+  background-image: url(/pic.jpg);
   background-size: 250px;
   background-repeat: no-repeat;
   background-color: rgba(57, 194, 194, 0.7);
@@ -186,7 +185,7 @@ body{
     background-blend-mode: normal;
     transform: scale(0.9); 
     transform: scale(0.9);
-    background-image: url(/images/IMG-20221124-WA0010.jpg);
+    background-image: url(/pic.jpg);
 }
 .outline:hover{
     z-index: -2;
